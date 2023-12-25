@@ -12,6 +12,6 @@ int main()
 		fact=fact*i;
 		i++;
 	}
-	cout<<"factorial of no is : "<<fact<<endl;
+	cout<<"factorial of no "<<n<<" is : "<<fact<<endl;
 	
 }
